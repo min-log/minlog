@@ -24,6 +24,7 @@
 							<!--<p class="txt_sub">var. 2020</p>-->
 							<div class="txt">web publisher / ui & markup developer / marketer /</div>
 							<div class="img"></div>
+							<img src="./resource/images/main/img_leaf.png" alt="">
 						</div>
 					</div>
 					<script>
